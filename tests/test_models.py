@@ -104,7 +104,6 @@ class TestProductModel(unittest.TestCase):
     #
     # ADD YOUR TEST CASES HERE
     #
-# ... (previous code)
 
     def test_read_a_product(self):
         """It should Read a Product"""
